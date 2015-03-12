@@ -19,7 +19,7 @@ Year/(show#)</td>
 <td></td>
 <td data-sheets-value="[null,2,&quot;Informal Upright&quot;]">Informal Upright</td>
 <td></td>
-<td data-sheets-value="[null,2,&quot;#80 p 16&quot;]">#80 p 16</td>
+<td data-sheets-value="[null,2,&quot;#80 p 16&quot;]"><a href="https://github.com/dupuich/kokufu-winners/blob/master/images/IMAG0777.jpg">#80 p 16</a></td>
 </tr>
 <tr>
 <td data-sheets-value="[null,2,&quot;1984 (#58)&quot;]">1984 (#58)</td>
